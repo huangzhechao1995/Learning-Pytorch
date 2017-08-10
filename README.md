@@ -1,2 +1,2 @@
 # Learning-Pytorch
-part of my notes (Chinese) and my code implementation of pytorch official tutorial and examples
+This includes my notes (in Chinese) and my code implementation of Pytorch official tutorial and examples
